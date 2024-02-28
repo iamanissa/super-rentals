@@ -23,3 +23,8 @@
 
 # broccoli-debug
 /DEBUG/
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
